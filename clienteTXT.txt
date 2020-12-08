@@ -1,0 +1,1 @@
+Archivo de texto el cual el cliente va a mandar al servidor.
